@@ -1,2 +1,3 @@
 # hello-world
-hello world to start this semester.
+hello, world to start this semester.
+I am here to learn and explore!
